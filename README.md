@@ -1,6 +1,6 @@
 # Friend-Finder
 
-*A compatibility based "Friend Finder" application.*
+*A compatibility based "Friend Finder" application.* *Try it HERE!===>* [Friend-Finder](https://fast-scrubland-53335.herokuapp.com)
 
 ----------
 
