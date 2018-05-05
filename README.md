@@ -1,6 +1,6 @@
 # Friend-Finder
 
-*A compatibility based "Friend Finder application.*
+*A compatibility based "Friend Finder" application.*
 
 ----------
 
@@ -40,4 +40,4 @@ and comparing them to each other, the application will then display the name and
 
 ## Author
 
-** Joe McCreesh**
+**Joe McCreesh**
